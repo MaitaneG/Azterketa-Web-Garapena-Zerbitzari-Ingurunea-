@@ -1,0 +1,21 @@
+Azterketa
+
+1- https://github.com/MaitaneG/Web-garapena-zerbitzari-ingurunean/tree/main/Azterketa
+
+2- Django MVC egitura erabiltzen du, hau da Models, Controller eta View fitxeroak ditu. Modeloan (Models.py) datubasearen taulen egitura zehazten da, controller-ean (url.py)
+url-en kontrola eramaten da, eta View-en (Template karpetan dauden html-ak) erabiltzaileak ikusten duena. Gainera Views.py fitxategia datubaseko informazioa lortzeko eta
+aldatzeko balio du (Service kapa egingo zuena). Manage.py fitxeroan Django erabiltzeko dauden komandoak zehaztuta daude. Komando bat exekutatzerakoan fitxategi honi deitu 
+behar da. Settings.py fitxategian proiektuaren konfigurazio guztia dago. Bertan zehazten dira sortutako aplikazioak.
+
+
+3. Proiektu bat web orri bat da, baina aplikazio bat funtzionaltasun bakoitzeko egin daitezken subproiektuak dira. Hau da Proiektu batek aplikazio bat baino gehiago eduki 
+ditzake. Datubaseko taula bakoitzeko modelo bat sortu behar da. Aplikazio bakoitzeko modelo bat sortu daiteko edo aplikazio batean proiektuko modelo guztiak edukitzea. 
+
+
+4. Djangok datu base bat integratuta ekartzen du, berak models.py fitxategian jartzen den arabera migrazioak egiten ditu eta gero taulak sortzen ditu. Gainera, berak defektuz 
+taula batzuk sortuta dauzka.
+
+
+5. Django MVC egitura erabiltzen du, hau da Models, Controller eta View fitxeroak ditu. Modeloan (Models.py) datubasearen taulen egitura zehazten da, controller-ean (url.py)
+url-en kontrola eramaten da, eta View-en (Template karpetan dauden html-ak) erabiltzaileak ikusten dutena. Gainera Views.py fitxategia datubaseko informazioa lortzeko eta
+aldatzeko balio du (Service kapa egingo zuena).
